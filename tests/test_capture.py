@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from capture import capture_screen
+from src.capture import capture_screen
 
 
 def test_capture_screen():
